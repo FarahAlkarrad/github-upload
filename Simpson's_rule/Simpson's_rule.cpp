@@ -79,7 +79,6 @@ int main()
 	integration = (h / 3) * (f_firstpoint + 4 * f_midpoint + f_secondpoint);
 
 	cout << "\n Integration of e^x = " << integration << endl;
-	
 	return 0;
 }
 
