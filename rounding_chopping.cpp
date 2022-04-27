@@ -1,6 +1,6 @@
 /*
-    Written by: Farah Al-Karrad
-    Title: Rounding and chopping
+	written by: Farah Al-karrad
+	Title: Rounding and Chopping
 */
 #include<iostream>
 #include<iomanip>
